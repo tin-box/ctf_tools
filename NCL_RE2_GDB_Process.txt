@@ -1,0 +1,8 @@
+gdb RE2_64bit
+(gdb) disassemble main
+(gdb) info functions
+(gdb) break main
+(gdb) r
+(gdb) call getflagbytid(4930)
+(gdb) call (char *) getflagbytid(4930)
+ANSWER OUTPUT HERE
