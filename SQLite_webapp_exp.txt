@@ -1,0 +1,8 @@
+SQLite
+
+This listed the full normal query - wildcard
+	%	
+
+This listed other tables
+	"; SELECT * FROM users;  
+
